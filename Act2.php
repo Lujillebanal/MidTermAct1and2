@@ -1,4 +1,5 @@
 <?php
+echo "<h2>Activity 2</h2>";
 
 $dash_username = "user_lujille";
 $dash_role = "member";
