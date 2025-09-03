@@ -4,7 +4,7 @@
     <style>
         body {
             font-family: Arial, sans-serif;
-            background: rgb(199, 124, 32);
+            background: rgba(228, 213, 196, 1);
             margin: 0;
             padding: 20px;
         }
