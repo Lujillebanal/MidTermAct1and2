@@ -29,7 +29,7 @@ $devicee_catalog = [
     ["id" => 1, "name" => "Desktop PC", "price" => 40000.00, "inStock" => true],
     ["id" => 2, "name" => "Projector", "price" => 15000.00, "inStock" => true],
     ["id" => 3, "name" => "Smart TV", "price" => 28000.00, "inStock" => false],
-    ["id" => 4, "name" => "External Hard Drive", "price" => 7,300.00, "inStock" => true],
+    ["id" => 4, "name" => "External Hard Drive", "price" => 7300.00, "inStock" => true],
     ["id" => 5, "name" => "Wireless Mouse", "price" => 1200.00, "inStock" => true],
     ["id" => 6, "name" => "Mechanical Keyboard", "price" => 4500.00, "inStock" => true]
 ];
