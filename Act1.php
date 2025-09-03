@@ -1,5 +1,5 @@
 <?php
-echo "<h2>Activity 1: GadgetGrove Catalog</h2>";
+echo "<h2>Activity 1</h2>";
 
 
 $devicee_names = ["Desktop PC", "Projector", "Smart TV", "External Hard Drive", "Wireless Mouse", "Mechanical Keyboard"];
